@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        wp_reload
 // @namespace   http://sanrinsha.lolipop.jp/
-// @include     http://sanrinsha.lolipop.jp/wp/wp-admin/post.php?post=*
+// @description WordPressをIt's All text!で編集して、textareaが変化したら、プレビューボタンをクリックするユーザースクリプト
 // @version     1.0
 // ==/UserScript==
 
